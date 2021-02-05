@@ -18,5 +18,5 @@ Universe game, made with Gdevelop
 ## Grafics:
 - objects > LuaX + MitasVit
 - characters > LuaX
-- background > MitasVit
+- background > MitasVit + LuaX
 - UI components > MitasVit
