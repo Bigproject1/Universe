@@ -2,18 +2,18 @@
 Universe game, made with Gdevelop
 
 ## Scenes:
-- Uvodni
-- VyberPostav
-- ZactekPribehu
-- 1Planeta
-- 2Planeta
+- Uvodni > MitasVit
+- VyberPostav > MitasVit
+- ZactekPribehu > LuaX
+- 1Planeta > LuaX
+- 2Planeta > MitasVit
 
 ## Sounds:
-- main
-- effects
+- main > LuaX
+- effects > LuaX
 
 ## Grafics:
-- objects
-- characters
-- background
-- UI components
+- objects > LuaX + MitasVit
+- characters > LuaX
+- background > MitasVit
+- UI components > MitasVit
