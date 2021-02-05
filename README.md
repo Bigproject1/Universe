@@ -5,18 +5,18 @@ Universe game, made with Gdevelop
 <a href="https://github.com/Bigproject1/Universe/"><img alt="Github status" src="https://img.shields.io/badge/status-testing-orange"/></a>
 
 ## Scenes:
-- Uvodni > MitasVit
-- VyberPostav > MitasVit
-- ZactekPribehu > LuaX
-- 1Planeta > LuaX
-- 2Planeta > MitasVit
+- Uvodni - MitasVit
+- VyberPostav - MitasVit
+- ZactekPribehu - LuaX
+- 1Planeta - LuaX
+- 2Planeta - MitasVit
 
 ## Sounds:
-- main > LuaX
-- effects > LuaX
+- main - LuaX
+- effects - LuaX
 
 ## Grafics:
-- objects > LuaX + MitasVit
-- characters > LuaX
-- background > MitasVit + LuaX
-- UI components > MitasVit
+- objects - LuaX and MitasVit
+- characters - LuaX
+- background - MitasVit and LuaX
+- UI components - MitasVit
