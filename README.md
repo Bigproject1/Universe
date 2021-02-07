@@ -6,6 +6,7 @@ Universe game, made with Gdevelop
 
 ## Scenes:
 - Uvodni - MitasVit
+- VyberSvetu - LuaX
 - VyberPostav - MitasVit
 - ZactekPribehu - LuaX
 - 1Planeta - LuaX
