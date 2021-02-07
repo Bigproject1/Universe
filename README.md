@@ -20,3 +20,7 @@ Universe game, made with Gdevelop
 - characters - LuaX
 - background - MitasVit and LuaX
 - UI components - MitasVit
+
+## License
+License: 
+[Mit License](https://github.com/Bigproject1/Universe/blob/main/LICENSE)
