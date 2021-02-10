@@ -6,14 +6,14 @@ Universe game, made with Gdevelop
 
 # List of contents
 
-## Link to game
-## Wiki
-## Future
-## Scenes
-## Sounds
-## Grafics
-## Translations
-## License
+* Link to game
+* Wiki
+* Future
+* Scenes
+* Sounds
+* Grafics
+* Translations
+* License
 
 # Link to game
 
