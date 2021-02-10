@@ -33,5 +33,6 @@ Universe game, made with Gdevelop
 - english - LuaX and MitasVit
 
 ## License
+
 License: 
 [Mit License](https://github.com/Bigproject1/Universe/blob/main/LICENSE)
